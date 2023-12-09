@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: javax.servlet-api-4.0.1.jar javax.servlet-api-4.0.1-sources.
+ jar javax.servlet-api-4.0.1.jar gson-2.10.1.jar
+
